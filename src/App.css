@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.wrapper {
+display: flex;
+    gap: 15px;
+    align-items: end;
+}
